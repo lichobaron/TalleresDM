@@ -1,0 +1,4 @@
+El numero 500 en la variable mVarA se ultiliza para el avance en bytes de cada modificacion
+del mp3, se utiliza este avance de 500 para no dañar el encabezado de este archivo.
+Adicionalmente tambien esta relacionado con la tasa de bits, ya que con este dato se puede
+saber que tanto se escuchara nuestra modificacion en el archivo, 64kbit/s en el caso de fur elise.

@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik+Mono+One');
+
+.ClasePrueba {
+  background-color: gray;
+  border-style: solid;
+  font-family: 'Rubik Mono One', sans-serif;
+}
